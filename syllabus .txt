@@ -1,0 +1,27 @@
+Student Support Assistant – Sample Syllabus Information
+
+The project demonstrates basic concepts of Agentic AI.
+
+Module 1: Introduction to Artificial Intelligence
+Artificial Intelligence is the field of creating systems that can perform tasks that normally require human intelligence.
+
+Module 2: Agentic AI
+Agentic AI systems can understand tasks, make decisions and select suitable actions to achieve a goal.
+
+Module 3: Retrieval-Augmented Generation
+RAG retrieves relevant information from a knowledge base and uses the retrieved information to answer user questions.
+
+Module 4: Tool Calling
+Tool Calling allows an AI agent to use external or predefined functions for specific tasks such as calculations.
+
+Module 5: Memory
+Memory allows the system to store useful information from previous interactions.
+
+Module 6: Python Programming
+Python is used to implement the application logic, agent, retrieval system, tools and memory.
+
+Module 7: User Interface
+The Student Support Assistant uses a simple graphical user interface to receive questions and display responses.
+
+Module 8: Testing
+The system is tested using greeting questions, knowledge questions, calculations, attendance calculations and memory-related questions.
